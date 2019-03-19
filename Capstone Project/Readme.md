@@ -14,7 +14,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
 ## Code
-Template code is provided in the Combine Cycle Power Plant with all features.ipynb notebook file. You will also be requires to use the included dataset file Combine_Cycle_Power_Plant.xlsx.
+Template code is provided in the Combine Cycle Power Plant.ipynb notebook file. You will also be requires to use the included dataset file Combine_Cycle_Power_Plant.xlsx.
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
@@ -43,7 +43,7 @@ Features consist of hourly average ambient variables
 
 
 ## Output variable (desired target):
-- Electric Energy(PE)
+- Electrical Energy Output(PE)
 
 ## Models trained On:
 1.Linear Regression
